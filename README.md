@@ -1,8 +1,10 @@
-Market Feed
 
-This project was built with SpringBoot and Java 8. To execute run class MarketPriceApplication.
+Market Feed
 ============================================================================================
 
+This project was built with SpringBoot, Java 8, H2 and Swagger. To execute run class MarketPriceApplication.
+
+============================================================================================
 
 You can find a complete list of API's services on the directory /src/main/resources/postman/Market.postman_collection.json
 
