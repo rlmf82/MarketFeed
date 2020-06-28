@@ -1,10 +1,10 @@
-package prontuario.bitsaude;
+package market.priceFeed;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BitsaudeProntuarioApplicationTests {
+class MarketPriceApplication {
 
 	@Test
 	void contextLoads() {
